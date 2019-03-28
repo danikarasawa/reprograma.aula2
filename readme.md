@@ -1,11 +1,11 @@
-# {reprogram workshop}
+# {reprograma} - Workshop
 
 * An incredible teacher
 * 7 hours of knowledge
 * HTML, CSS, Bootstrap and folder for linked new page
 * Good job, girl ♥
 
-# {reprogram workshop}
+# {reprograma} - Workshop
 
 * Uma professora incrível 
 * 7 horas de conhecimento
